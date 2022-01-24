@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OATproject
+    </string>
+    //페이스북관련
+    <string name="facebook_app_id">653036245880541</string>
+    <string name="fb_login_protocol_scheme">fb653036245880541</string>
+
+
+</resources>
